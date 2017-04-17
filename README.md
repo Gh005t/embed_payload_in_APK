@@ -1,2 +1,2 @@
 # embedpayload_in_APK
-This is a ruby script that embed meterpreter payload in original apk
+This is a ruby script that allow you to embed metasploit payload in original APK
